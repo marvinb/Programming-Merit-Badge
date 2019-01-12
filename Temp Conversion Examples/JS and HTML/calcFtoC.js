@@ -19,3 +19,11 @@ function calcFtoC() {
     newText = "If the temperature is " + tempF + "&deg;F (" + tempC +" &deg;C): " + myActionText;
     document.getElementById('calcAnswer').innerHTML = newText;
 }
+
+// function convertGallonsToLitres() {
+//     var tempGallons = document.getElementById('inputGallons').value;
+//     var tempLitres = ( tempGallons * 3.7854 ).toFixed(1);
+
+//     newText = "Gallons = " + tempLitres + " Litres";
+//     document.getElementById('calcAnswerGallons').innerHTML = newText;
+// }
