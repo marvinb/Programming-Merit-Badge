@@ -1,0 +1,23 @@
+1. Open the JS and HTML folder in Visual Studio Code
+  File -> Open Folder -> <path>\JS and HTML\
+2. Open FtoC.html in Chrome or IE or Safari
+  You should see a page that allows you to enter Farenheit
+  with a submit button.  When submitted you get celcius
+3. Once you understand how this works, then can you add a new 
+    feature where you can convert Gallons to Litres?
+4. Uncomment the code in the files and you can see how to make
+    a new function for this.
+5. Change the code to convert Litres to Gallons
+Hints:
+    a. There are 3.7854 liters in a gallon...
+    b. You will make a change to the HTML and to the calcFtoC.js files
+    c. To make it easier on you there are functions that are commented
+        out that you can "uncomment" to get started
+    d. Remember the code for javascript talks to the HTML page and the HTML
+        page responds, you change the HTML
+
+Advanced:
+1. Open the Madlib folder in Visual Studio Code
+2. Change the story to include another noun, verb or adjective.
+3. Create a drop down list for one of the madlib values
+
