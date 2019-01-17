@@ -7,6 +7,13 @@ This repository (repo) contains everything a Counselor needs to teach a Merit Ba
 Please feel free to edit my PowerPoint as you wish, but please keep my attribution on the title screen.  
 <br>
 
+##Attribute Bob Baker, Troop 787, Orange County Council, CA
+Thanks Bob!
+
+##Forked Repro
+Added the Madlib feature from another repo
+Made some instruction for JS and HTML to follow along with multiple students
+
 ## Who am I?
 My name is Bob Baker, Troop 787, Orange County Council, CA.
 I am a current (as of 2018) Computer Science student at Saddleback College.  In 2007 I joined the Scouts and earned my Eagle in 2014. Since 2010, I have been working with the Council's NYLT program while trying to help build permanent programs across the Council including this Programming Merit Badge material.  My hope is this material helps lower the barrier to teaching the Programming Merit Badge, so more scouts can be introduced to the world of programming.
